@@ -1,14 +1,41 @@
 ## 2014
+### 2014-08
+|月报|DB类型|案例分类|标题|链接|
+|----|-----|-----|----|----|
+|2014-08-01|MySQL|参数故事|timed_mutexes|http://mysql.taobao.org/monthly/2014/08/01/|
+|2014-08-02|MySQL|参数故事|innodb_flush_log_at_trx_commit|http://mysql.taobao.org/monthly/2014/08/02/|
+|2014-08-03|MySQL|捉虫动态|Count(Distinct) ERROR|http://mysql.taobao.org/monthly/2014/08/03/|
+|2014-08-04|MySQL|捉虫动态|mysqldump BUFFER OVERFLOW|http://mysql.taobao.org/monthly/2014/08/04/|
+|2014-08-05|MySQL|捉虫动态|long semaphore waits|http://mysql.taobao.org/monthly/2014/08/05/|
+### 2014-09
+|月报|DB类型|案例分类|标题|链接|
+|----|-----|-----|----|----|
+|2014-09-01|MySQL|捉虫动态|GTID 和 DELAYED|http://mysql.taobao.org/monthly/2014/09/01/|
+|2014-09-02|MySQL|限制改进|GTID和升级|http://mysql.taobao.org/monthly/2014/09/02/|
+|2014-09-03|MySQL|捉虫动态|GTID 和 binlog_checksum|http://mysql.taobao.org/monthly/2014/09/03/|
+|2014-09-04|MySQL|引擎差异|create_time in status|http://mysql.taobao.org/monthly/2014/09/04/|
+|2014-09-05|MySQL|参数故事|thread_concurrency|http://mysql.taobao.org/monthly/2014/09/05/|
+|2014-09-06|MySQL|捉虫动态|auto_increment|http://mysql.taobao.org/monthly/2014/09/06/|
 ### 2014-10
 |月报|DB类型|案例分类|标题|链接|
 |----|-----|-----|----|----|
 |2014-10-01|MySQL|5.7重构|Optimizer Cost Model|http://mysql.taobao.org/monthly/2014/10/01/|
+|2014-10-02|MySQL|系统限制|text字段数|http://mysql.taobao.org/monthly/2014/10/02/|
+|2014-10-03|MySQL|捉虫动态|binlog重放失败|http://mysql.taobao.org/monthly/2014/10/03/|
+|2014-10-04|MySQL|捉虫动态|从库OOM|http://mysql.taobao.org/monthly/2014/10/04/|
+|2014-10-05|MySQL|捉虫动态|崩溃恢复失败|http://mysql.taobao.org/monthly/2014/10/05/|
+|2014-10-06|MySQL|功能改进|InnoDB Warmup特性|http://mysql.taobao.org/monthly/2014/10/06/|
+|2014-10-07|MySQL|文件结构|告别frm文件|http://mysql.taobao.org/monthly/2014/10/07/|
 ### 2014-11
 |月报|DB类型|案例分类|标题|链接|
 |----|-----|-----|----|----|
 |2014-11-01|MySQL|捉虫动态|OPTIMIZE 不存在的表|http://mysql.taobao.org/monthly/2014/11/01/|
 |2014-11-02|MySQL|捉虫动态|SIGHUP 导致 binlog 写错|http://mysql.taobao.org/monthly/2014/11/02/|
 |2014-11-03|MySQL|5.7改进|Recovery改进|http://mysql.taobao.org/monthly/2014/11/03/|
+|2014-11-04|MySQL|5.7特性|高可用支持|http://mysql.taobao.org/monthly/2014/11/04/|
+|2014-11-05|MySQL|5.7优化|Metadata Lock子系统的优化|http://mysql.taobao.org/monthly/2014/11/05/|
+|2014-11-06|MySQL|5.7特性|在线Truncate undo log 表空间|http://mysql.taobao.org/monthly/2014/11/06/|
+|2014-11-07|MySQL|性能优化|hash_scan 算法的实现解析|http://mysql.taobao.org/monthly/2014/11/07/|
 ### 2014-12
 |月报|DB类型|案例分类|标题|链接|
 |----|-----|-----|----|----|
@@ -16,6 +43,11 @@
 |2014-12-02|MySQL|踩过的坑|5.6 GTID 和存储引擎那会事|http://mysql.taobao.org/monthly/2014/12/02/|
 |2014-12-03|MySQL|性能优化|thread pool 原理分析|http://mysql.taobao.org/monthly/2014/12/03/|
 |2014-12-04|MySQL|性能优化|并行复制外建约束问题|http://mysql.taobao.org/monthly/2014/12/04/|
+|2014-12-05|MySQL|答疑释惑|binlog event有序性|http://mysql.taobao.org/monthly/2014/12/05/|
+|2014-12-06|MySQL|答疑释惑|server_id为0的Rotate|http://mysql.taobao.org/monthly/2014/12/06/|
+|2014-12-07|MySQL|性能优化|Bulk Load for CREATE INDEX|http://mysql.taobao.org/monthly/2014/12/07/|
+|2014-12-08|MySQL|捉虫动态|Opened tables block read only|http://mysql.taobao.org/monthly/2014/12/08/|
+|2014-12-09|MySQL|优化改进|GTID启动优化|http://mysql.taobao.org/monthly/2014/12/09/|
 ## 2015
 ### 2015-01
 |月报|DB类型|案例分类|标题|链接|
@@ -25,6 +57,10 @@
 |2015-01-03|MySQL|性能优化|启用GTID场景的性能问题及优化|http://mysql.taobao.org/monthly/2015/01/03/|
 |2015-01-04|MySQL|捉虫动态|InnoDB自增列重复值问题|http://mysql.taobao.org/monthly/2015/01/04/|
 |2015-01-05|MySQL|优化改进|复制性能改进过程|http://mysql.taobao.org/monthly/2015/01/05/|
+|2015-01-06|MySQL|谈古论今|key分区算法演变分析|http://mysql.taobao.org/monthly/2015/01/06/|
+|2015-01-07|MySQL|捉虫动态|mysql client crash一例|http://mysql.taobao.org/monthly/2015/01/07/|
+|2015-01-08|MySQL|捉虫动态|设置 gtid_purged 破坏AUTO_POSITION复制协议|http://mysql.taobao.org/monthly/2015/01/08/|
+|2015-01-09|MySQL|捉虫动态|replicate filter 和 GTID 一起使用的问题|http://mysql.taobao.org/monthly/2015/01/09/|
 ### 2015-02
 |月报|DB类型|案例分类|标题|链接|
 |----|-----|-----|----|----|
@@ -32,6 +68,7 @@
 |2015-02-02|MySQL|社区动态|5.6.23 InnoDB相关Bugfix|http://mysql.taobao.org/monthly/2015/02/02/|
 |2015-02-05|MySQL|答疑释惑|InnoDB丢失自增值|http://mysql.taobao.org/monthly/2015/02/05/|
 |2015-02-06|MySQL|答疑释惑|5.5 和 5.6 时间类型兼容问题|http://mysql.taobao.org/monthly/2015/02/06/|
+|2015-02-07|MySQL|捉虫动态|变量修改导致binlog错误|http://mysql.taobao.org/monthly/2015/02/07/|
 ### 2015-03
 |月报|DB类型|案例分类|标题|链接|
 |----|-----|-----|----|----|
@@ -51,6 +88,7 @@
 |2015-04-07|MySQL|捉虫动态|Relay log 中 GTID group 完整性检测|http://mysql.taobao.org/monthly/2015/04/07/|
 |2015-04-08|MySQL|答疑释惑|UPDATE交换列单表和多表的区别|http://mysql.taobao.org/monthly/2015/04/08/|
 |2015-04-09|MySQL|捉虫动态|删被引用索引导致crash|http://mysql.taobao.org/monthly/2015/04/09/|
+|2015-04-10|MySQL|答疑释惑|GTID下auto_position=0时数据不一致|http://mysql.taobao.org/monthly/2015/04/10/|
 ### 2015-05
 |月报|DB类型|案例分类|标题|链接|
 |----|-----|-----|----|----|
@@ -61,6 +99,7 @@
 |2015-05-06|MySQL|捉虫动态|MySQL DDL BUG|http://mysql.taobao.org/monthly/2015/05/06/|
 |2015-05-07|MySQL|答疑解惑|set names 都做了什么|http://mysql.taobao.org/monthly/2015/05/07/|
 |2015-05-08|MySQL|捉虫动态|临时表操作导致主备不一致|http://mysql.taobao.org/monthly/2015/05/08/|
+|2015-05-10|MySQL|答疑解惑|binlog 位点刷新策略|http://mysql.taobao.org/monthly/2015/05/10/|
 ### 2015-06
 |月报|DB类型|案例分类|标题|链接|
 |----|-----|-----|----|----|
