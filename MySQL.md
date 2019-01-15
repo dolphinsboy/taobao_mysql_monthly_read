@@ -376,7 +376,7 @@
 ### 2015-04
 |月报|DB类型|案例分类|标题|链接|阅读状态|
 |----|-----|-----|----|----|---|
-|2015-04-01|MySQL|引擎特性|InnoDB undo log 漫游|http://mysql.taobao.org/monthly/2015/04/01/|start|
+|2015-04-01|MySQL|引擎特性|InnoDB undo log 漫游|http://mysql.taobao.org/monthly/2015/04/01/|Reading|
 |2015-04-05|MySQL|捉虫动态|连接断开导致XA事务丢失|http://mysql.taobao.org/monthly/2015/04/05/|not start|
 |2015-04-06|MySQL|捉虫动态|GTID下slave_net_timeout值太小问题|http://mysql.taobao.org/monthly/2015/04/06/|not start|
 |2015-04-07|MySQL|捉虫动态|Relay log 中 GTID group 完整性检测|http://mysql.taobao.org/monthly/2015/04/07/|not start|
